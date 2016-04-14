@@ -1,0 +1,12 @@
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.exe.config
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.exe
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.pdb
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.csprojResolveAssemblyReference.cache
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.exe
+c:\users\elya\documents\visual studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.pdb
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.exe.config
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.exe
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.pdb
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.exe
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\bin\Debug\Lessons3-4.pdb
+C:\Users\Abdulkhakova\Documents\Visual Studio 2013\Projects\Lessons3-4\Lessons3-4\obj\Debug\Lessons3-4.csprojResolveAssemblyReference.cache
